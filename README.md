@@ -1,4 +1,4 @@
-**# TABA Project – PCA and ANOVA on Food Datasets
+# TABA Project – PCA and ANOVA on Food Datasets
 
 This project applies Principal Component Analysis (PCA) and Two-Way ANOVA to explore nutritional data and flavor perception based on cooking methods and sauces. It was developed as part of the Statistics II Terminal Assignment Based Assessment (TABA) for a Higher Diploma in Data Analytics.
 
