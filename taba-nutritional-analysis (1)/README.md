@@ -4,12 +4,12 @@ This project applies Principal Component Analysis (PCA) and Two-Way ANOVA to exp
 
 ## Project Breakdown
 
-### 📌 Part 1: PCA on Nutritional Profiles
+### Part 1: PCA on Nutritional Profiles
 - Dataset: USDA Food and Nutrient Database for Dietary Studies (2017–2018)
 - Goal: Identify nutritional patterns in food using PCA
 - Tools: pandas, matplotlib, sklearn
 
-### 📌 Part 2: Two-Way ANOVA on Flavour Intensity
+### Part 2: Two-Way ANOVA on Flavour Intensity
 - Dataset: Custom-created from Food.com recipes
 - Goal: Test the effect of cooking method and sauce type on simulated flavour scores
 - Tools: pandas, numpy, seaborn, scipy.stats
